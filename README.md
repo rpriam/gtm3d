@@ -8,6 +8,6 @@ improve the interface with an exising library <br />
 move the code pca and gtm to a r package  <br />
 
 Reference <br />
-https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/bishop-gtm-ncomp-98.pdf
-https://publications.aston.ac.uk/id/eprint/1245/1/NCRG_98_024.pdf
-https://linkinghub.elsevier.com/retrieve/pii/S0925231215012795
+https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/bishop-gtm-ncomp-98.pdf <br />
+https://publications.aston.ac.uk/id/eprint/1245/1/NCRG_98_024.pdf <br />
+https://linkinghub.elsevier.com/retrieve/pii/S0925231215012795 <br />
