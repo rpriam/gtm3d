@@ -5,7 +5,7 @@ This file is the release of the c++ code for the expectation-Maximization algori
 
 To do <br />
 improve the interface with an exising library <br />
-move the c++ code pca and gtm to a r package  <br />
+move the code pca and gtm to a r package  <br />
 
 Reference <br />
 https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/bishop-gtm-ncomp-98.pdf
