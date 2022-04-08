@@ -18,31 +18,31 @@ To do                  : Images instead of spheres for drawing points projection
 ***FEATURES***
 **************
 
---------------
-Option Keys:
---------------
-H  Show help
-I  Data informations
-F7 Heigh Map ON
-F7 Heigh Map OFF
-F5 Color Map
-F4 PCA map
-F3 Density Map
-F2 Umatrix Map
-F1 Data+Map
-C  Label color data
-D Data Draw OFF/ON
-B Box ON/OFF
-K Box Plane ON/OFF
-A Axis ON/OFF
-J Mesh Color ON/OFF
-G Mesh ON/OFF
-M 3D Map ON/OFF
-Z Parameters settings
+--------------<br />
+Option Keys:<br />
+--------------<br />
+H  Show help<br />
+I  Data informations<br />
+F7 Heigh Map ON<br />
+F7 Heigh Map OFF<br />
+F5 Color Map<br />
+F4 PCA map<br />
+F3 Density Map<br />
+F2 Umatrix Map<br />
+F1 Data+Map<br />
+C  Label color data<br />
+D Data Draw OFF/ON<br />
+B Box ON/OFF<br />
+K Box Plane ON/OFF<br />
+A Axis ON/OFF<br />
+J Mesh Color ON/OFF<br />
+G Mesh ON/OFF<br />
+M 3D Map ON/OFF<br />
+Z Parameters settings<br />
 
 
---------------
-Option Menu:
---------------
-'Open Project'   Open an existing project and draw the GTM projection according to current options.
+--------------<br />
+Option Menu:<br />
+--------------<br />
+'Open Project'   Open an existing project and draw the GTM projection according to current options.<br />
 'Create Project' Open a directory with data file 'data.txt' plus label file 'data_l.txt', and allow settings for running the GTM algorithm on the data.
