@@ -2,7 +2,8 @@
 *** Generative Topographic Mapping in C++ and OpenGL for Large Map and Large Dataset ***
 
 NL3MAP Version 2009 (with update in 12/2013 for compilation from winXP to win7)
-All right reserved @ Rodolphe Priam (rpriam@gmail.com) (code source available by email)
+
+All right reserved @ Rodolphe Priam (rpriam@gmail.com)
 
 Libraries used in c ++ : WxWidgets, OpenGL, Glut, STL
 Compilator             : Code::Blocks
