@@ -46,3 +46,12 @@ Option Menu:<br />
 --------------<br />
 'Open Project'   Open an existing project and draw the GTM projection according to current options.<br />
 'Create Project' Open a directory with data file 'data.txt' plus label file 'data_l.txt', and allow settings for running the GTM algorithm on the data.
+
+**************<br />
+**************<br />
+To do                  : Images instead of spheres for drawing points projections. Check computer memory management.
+
+
+
+
+
